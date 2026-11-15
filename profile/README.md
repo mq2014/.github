@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-banner-v3.jpg" width="100%" alt="六项目延展横幅 · Q 版小哪吒" />
+<img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-banner-v4.jpg" width="100%" alt="六作巡游 · Q 版小哪吒" />
 
 <img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-badge.png" width="168" alt="六项目合体徽章 · Q 版小哪吒" />
 
 <sub>六个项目熔成一张圆 · 靶心 / 战机 / 双枪 / 卷轴 / 作品集 / 创造之家</sub>
-
-<sub>✦　混天绫 · 六作巡游　✦</sub>
 
 <h1>👋 你好，我是 people</h1>
 
@@ -19,6 +17,8 @@
 <p><code>HTML / JavaScript</code> · <code>React / TypeScript</code> · <code>Three.js</code> · <code>Leaflet</code> · <code>Cloudflare Pages</code></p>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-rule.png" width="100%" alt="" />
 
 ---
 
@@ -77,6 +77,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-rule.png" width="100%" alt="" />
+
 ## 🧭 一眼看懂
 
 | 作品 | 类型 | 主要技术 | 状态 |
@@ -95,6 +97,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-rule.png" width="100%" alt="" />
+
 ## 🛠 我做东西的方式
 
 - **先能玩，再打磨**：每个项目都从可运行的最小版本起步，一轮轮加系统
@@ -108,3 +112,10 @@
 - 后端安全加固与账号体系完善
 
 <sub>最后更新 2026-11 · 页头、徽章与项目头像均为自绘 Q 版小哪吒系列 · 全部作品仍在迭代，欢迎提 Issue 或点个 ⭐</sub>
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-banner-flip.jpg" width="100%" alt="六作巡游 · 收尾" />
+
+</div>
