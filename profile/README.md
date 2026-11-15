@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-banner-v3.jpg" width="100%" alt="六项目延展横幅 · Q 版小哪吒" />
+
 <img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-header-v2.jpg" width="100%" alt="六项目巡游 · Q 版小哪吒页头" />
 
 <img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-badge.png" width="220" alt="六项目合体徽章 · Q 版小哪吒" />
