@@ -1,8 +1,14 @@
 <div align="center">
 
-<h1>👋 你好，我是 MQ2014</h1>
+<img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-badge.png" width="220" alt="六项目合体徽章 · Q 版小哪吒" />
 
-<p><b>独立开发者 · 用 AI 辅助，把想法做成能玩的网页游戏</b></p>
+<sub>六个项目熔成一张圆 · 靶心 / 战机 / 双枪 / 卷轴 / 作品集 / 创造之家</sub>
+
+<h1>👋 你好，我是 people</h1>
+
+<p><b>12 岁 · 独立开发者 · 用 AI 辅助，把想法做成能玩的网页游戏</b></p>
+
+<p>名字：people　｜　年龄：12</p>
 
 <p>4 款自研 Web 游戏　·　全部在线可玩　·　全部仍在迭代中</p>
 
