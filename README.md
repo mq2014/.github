@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-banner-v4.jpg" width="100%" alt="六作巡游 · Q 版小哪吒" />
+
+<sub>✦ <a href="https://github.com/mq2014">people 的作品集</a> · Q 版小哪吒六作巡游 · <a href="https://github.com/mq2014?tab=repositories">全部仓库</a> ✦</sub>
+
+</div>
+
+---
+
 # .github
 
 这个仓库用于自定义 GitHub 个人主页。
