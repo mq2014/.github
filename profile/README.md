@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-header.jpg" width="100%" alt="六项目巡游 · Q 版小哪吒页头" />
+
 <img src="https://raw.githubusercontent.com/mq2014/.github/main/profile/assets/nezha-badge.png" width="220" alt="六项目合体徽章 · Q 版小哪吒" />
 
 <sub>六个项目熔成一张圆 · 靶心 / 战机 / 双枪 / 卷轴 / 作品集 / 创造之家</sub>
